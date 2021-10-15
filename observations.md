@@ -1,0 +1,2 @@
+Resistors limit the amount of current that can move through the circuit. The third example shows how after the current moves through the resistors, they add again, I know this because the current going through the 33o resistor was 15 and the current through the 470 resistor was 10 and after, when it became one line it was 25.
+![IMG_20211015_105745](https://user-images.githubusercontent.com/88848538/137525997-930114f0-dab7-4773-905f-62ff7e6b406f.jpg)
